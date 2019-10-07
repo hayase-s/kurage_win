@@ -1,0 +1,4 @@
+myassign.c:15:6:lcdRS	16	static
+myassign.c:18:6:lcdCS	16	static
+myassign.c:24:6:sensorFrontLED	16	static
+myassign.c:28:6:sensorSideLED	16	static

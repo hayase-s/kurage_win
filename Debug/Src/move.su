@@ -1,0 +1,7 @@
+move.c:21:6:Traacc	8	static
+move.c:69:6:turn	16	static
+move.c:108:6:wallControl	24	static
+move.c:141:6:goAhead	8	static
+move.c:156:6:turnLeft	8	static
+move.c:174:6:turnRight	8	static
+move.c:192:6:goBack	8	static

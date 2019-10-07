@@ -1,0 +1,10 @@
+map.c:19:6:initWall	16	static
+map.c:36:6:setWallBit	16	static
+map.c:48:6:setWalltoMap	8	static
+map.c:60:9:judgeWall	16	static
+map.c:72:6:printWall	24	static
+map.c:121:6:initStepMap	16	static
+map.c:130:6:StepMapforAdachi	16	static
+map.c:171:9:compareStep	24	static
+map.c:277:6:saveMapFlash	48	static
+map.c:324:6:loadMapFlash	32	static

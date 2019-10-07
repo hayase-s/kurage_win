@@ -1,0 +1,7 @@
+aqm1248a.c:21:6:initAQM1248A	8	static
+aqm1248a.c:55:9:spiWriteAQM1248A	24	static
+aqm1248a.c:72:6:displayReset	16	static
+aqm1248a.c:87:6:bigFont	40	static
+aqm1248a.c:166:6:printLCDString	32	static
+aqm1248a.c:181:6:printfLCD	1052	static
+aqm1248a.c:197:6:drawcat	16	static

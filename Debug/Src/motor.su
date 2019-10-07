@@ -1,0 +1,6 @@
+motor.c:18:10:rightcalPWMCount	32	static
+motor.c:31:10:leftcalPWMCount	32	static
+motor.c:44:6:rightCWCCW	16	static
+motor.c:52:6:leftCWCCW	16	static
+motor.c:61:6:discalPara	16	static
+motor.c:65:6:motorEnable	16	static
